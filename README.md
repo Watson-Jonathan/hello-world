@@ -1,2 +1,3 @@
 # hello-world
-Learning the basics
+Learning the basic
+This is Jonathan Watson.
